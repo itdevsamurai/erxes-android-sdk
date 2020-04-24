@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="main_margin">16dp</dimen>
+    <dimen name="main_margin_10_dec">6dp</dimen>
     <dimen name="main_margin_half">8dp</dimen>
     <dimen name="padding_new_conv">8dp</dimen>
     <dimen name="padding_new_conv_bottom">10dp</dimen>
     <dimen name="write_message_offset">2dp</dimen>
     <dimen name="fab_margin">6dp</dimen>
     <dimen name="margin_top">16dp</dimen>
-    <dimen name="login_bar_height">70dp</dimen>
+    <dimen name="login_bar_height">200dp</dimen>
+    <dimen name="login_bar_height_small">70dp</dimen>
     <dimen name="reply_height">60dp</dimen>
     <dimen name="image_size">40dp</dimen>
     <dimen name="image_raduis">20dp</dimen>
@@ -25,5 +27,5 @@
     <dimen name="action_size">24dp</dimen>
     <dimen name="tools_size">20dp</dimen>
     <dimen name="radius_corner">23dp</dimen>
-
+    <dimen name="image_size_new">30dp</dimen>
 </resources>
